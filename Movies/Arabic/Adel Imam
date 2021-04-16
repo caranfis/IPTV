@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="avi" tvg-logo"" group-title="عادل امام",حب في الزنزانة
+#EXTINF:-1 tvg-id="avi" tvg-logo"https://i.egycdn.com/pic/WmFwZndlY21ZRW1UbW1ibWJtRUVjY052eG1FbW12Tkls.jpg" group-title="عادل امام",حب في الزنزانة
 http://main.i-want-exchange.com:8000/movie/new_server_vod/l7CgPdTN8R/11209.mkv
 
-#EXTINF:-1 tvg-id="avi" tvg-logo"" group-title="عادل امام",اللعب مع الكبار
+#EXTINF:-1 tvg-id="avi" tvg-logo"https://i.egycdn.com/pic/REl4amNJYUllY21tbUVtRW1qbXZ2UmN4eG1tbW1tSE5ibWI.jpg" group-title="عادل امام",اللعب مع الكبار
 http://main.i-want-exchange.com:8000/movie/new_server_vod/l7CgPdTN8R/11215.mkv
 
-#EXTINF:-1 tvg-id="avi" tvg-logo"" group-title="عادل امام",الارهاب والكباب
+#EXTINF:-1 tvg-id="avi" tvg-logo"https://m.marefa.org/images/c/ca/Al-irhab_wal_kabab.jpg" group-title="عادل امام",الارهاب والكباب
 http://main.i-want-exchange.com:8000/movie/new_server_vod/l7CgPdTN8R/11216.mkv
 
-#EXTINF:-1 tvg-id="avi" tvg-logo"" group-title="عادل امام",الغول
+#EXTINF:-1 tvg-id="avi" tvg-logo"https://media.elcinema.com/uploads/_315x420_5298f6812a30aaadd913e063fc7a19ea049a4d04686dd491fe6daa56224d5a1c.jpg" group-title="عادل امام",الغول
 http://main.i-want-exchange.com:8000/movie/new_server_vod/l7CgPdTN8R/11217.mkv
 
-#EXTINF:-1 tvg-id="avi" tvg-logo"" group-title="عادل امام",الهلفوت
+#EXTINF:-1 tvg-id="avi" tvg-logo"https://m.media-amazon.com/images/M/MV5BMjhmOTc1YTEtOTQ1My00MTMwLTg1YWEtMzMxY2E1YzljMWYxXkEyXkFqcGdeQXVyNTA2NzkwNTc@._V1_UY1200_CR485,0,630,1200_AL_.jpg" group-title="عادل امام",الهلفوت
 http://main.i-want-exchange.com:8000/movie/new_server_vod/l7CgPdTN8R/11218.mkv
 
 #EXTINF:-1 tvg-id="avi" tvg-logo"" group-title="عادل امام",الانسان يعيش مرة واحدة
