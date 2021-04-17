@@ -30,6 +30,9 @@ http://main.i-want-exchange.com:8000/movie/new_server_vod/l7CgPdTN8R/11221.mkv
 #EXTINF:-1 tvg-id="avi" tvg-logo"https://m.shasha1.com/wp-content/uploads/2017/03/Al-Mansi-1993.jpg" group-title="عادل امام",المنسي
 http://main.i-want-exchange.com:8000/movie/new_server_vod/l7CgPdTN8R/11222.mkv
 
+#EXTINF:-1 tvg-id="avi" tvg-logo"https://media.dhliz.com/a/film/al_ga7eem/%D8%A7%D9%84%D8%AC%D8%AD%D9%8A%D9%85_1.jpg" group-title="عادل امام",الجحيم
+https://proxy-016.ix7.dailymotion.com/sec(UoA1sdU9rYQHE4nL1sa5RPgthQiDXTkvFmm7hu9oswNFr8YyvELYnwo741y6IxAlbUGqzzNe1ndACHq4CK3j2lMF8Sa23nIfM2YjQlvVcXA)/frag(16)/video/324/982/415289423_mp4_h264_aac.m3u8
+
 #EXTINF:-1 tvg-id="avi" tvg-logo"https://upload.wikimedia.org/wikipedia/ar/c/c7/Al-Nemr_Wal-Ontha_Poster.jpg" group-title="عادل امام",النمر والانثى
 http://main.i-want-exchange.com:8000/movie/new_server_vod/l7CgPdTN8R/11223.mkv
 
