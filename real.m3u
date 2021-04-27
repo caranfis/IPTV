@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:60,index_1.m3u8
+#EXTVLCOPT:network-caching=1000
+https://d3ua2a2p6klq65.cloudfront.net/out/v1/49c19788530d43699d75c39a940f778a/index_1.m3u8
