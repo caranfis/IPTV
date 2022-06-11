@@ -930,6 +930,9 @@ https://archive.org/download/katkoot_202106/Katkot.mp4
 
 ######################################################################### احمد حلمي ####################################################################
 
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="احمد حلمي",واحد تاني
+https://archive.org/download/ahmed-helmy/Wahed_Tany.2022.1080P.mp4
+
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="احمد حلمي",اكس لارج
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="احمد حلمي",ميدو مشاكل
@@ -1033,6 +1036,14 @@ https://archive.org/15/items/Mahmoud.Abdel.Aziz.Movies/ElKeef.ia.mp4
 #EXTINF:-1 tvg-id="200" tvg-logo"https://media.elcinema.com/uploads/_315x420_6d56c93d2859849bfd4b327c3554f384098acdd021b1b5af92ce2a9952af33ce.jpg" group-title="محمود عبد العزيز",العذراء والشعر الابيض
 https://archive.org/15/items/Mahmoud.Abdel.Aziz.Movies/Al-Athra.Wi.Al-Sha.ar.Al-Abyad%201983%201080%20%28%20E7na.OnlinE%20%29.mp4
 
+
+######################################################################### افلام عربية ####################################################################
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="افلام عربية",برا المنهج
+https://archive.org/download/arabic_movies_202206/Barra.Al.Manhag.2022.1080P.WEB-DL.AKWAM.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="افلام عربية",الطريق الى ايلات
+https://archive.org/download/arabic_movies_202206/Al-Tarik_ila_Eilat_1994.720p.WEB-DL.MyCima.actor.mp4
 
 ######################################################################### مسرحيات ####################################################################
 
