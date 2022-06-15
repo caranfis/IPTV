@@ -1061,6 +1061,12 @@ https://archive.org/download/arabic_movies_202206/Barra.Al.Manhag.2022.1080P.WEB
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="افلام عربية",الطريق الى ايلات
 https://archive.org/download/arabic_movies_202206/Al-Tarik_ila_Eilat_1994.720p.WEB-DL.MyCima.actor.mp4
 
+
+######################################################################### افلام اجنبية ####################################################################
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="افلام اجنبية",(12 Angry Men)
+https://archive.org/download/foreign-movies/12.Angry.Men.1957.1080p.mp4
+
 ######################################################################### مسرحيات ####################################################################
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="مسرحيات",مدرسة المشاغبين
