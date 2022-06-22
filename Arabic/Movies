@@ -1100,6 +1100,10 @@ https://archive.org/download/arabic_movies_202206/Raghda.Motwahasha.1080p.mkv
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="افلام عربية",ياتهدي ياتعدي
 https://archive.org/download/arabic_movies_202206/Yathadi.Yataadi.HD1080p.akoam.net.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="افلام عربية",الجيل الرابع
+https://archive.org/download/arabic_movies_202206/Algeel.Alrabea.mp4
+
 ######################################################################### افلام اجنبية ####################################################################
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="افلام اجنبية",(Mr. Bean_Last exam before the holidays)
