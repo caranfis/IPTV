@@ -944,9 +944,6 @@ https://archive.org/download/mohamed-saad/Ta7t.El.Tarabiza.2016.720P.mp4
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="محمد سعد",محمد حسين
 https://archive.org/download/mohamed-saad/Mohamed.Hussein.2019.1080P.mp4
 
-#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="محمد سعد",الناظر
-https://archive.org/download/mohamed-saad/El.Nazer.HD720.mp4
-
 ######################################################################### احمد حلمي ####################################################################
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="احمد حلمي",واحد تاني
@@ -965,14 +962,19 @@ https://archive.org/download/ahmed-helmy/Zaki_Chan.mp4
 https://archive.org/download/ahmed-helmy/zrf.tark.2006.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="احمد حلمي",مطب صناعي
+https://archive.org/download/ahmed-helmy/mtb.sna3y.2007.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="احمد حلمي",جعلتني مجرما
+https://archive.org/download/ahmed-helmy/6-Gaalatny.mogreman.2006.720p.ts
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="احمد حلمي",صايع بحر
+https://archive.org/download/ahmed-helmy/say3.b7r.2007.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="احمد حلمي",على جثتي
+https://archive.org/download/ahmed-helmy/3ly.gthty.1080HD.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="احمد حلمي",كده رضا
+https://archive.org/download/ahmed-helmy/Keda.Reda.2007.1080HD.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="احمد حلمي",عسل اسود
 
@@ -991,11 +993,6 @@ https://archive.org/download/ahmed-helmy/zrf.tark.2006.mp4
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="احمد حلمي",بلبل حيران
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="احمد حلمي",صنع في مصر
-
-#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="احمد حلمي",سهر الليالي
-
-#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="احمد حلمي",55اسعاف
-
 
 ######################################################################### نور الشريف ####################################################################
 
@@ -1126,7 +1123,17 @@ https://archive.org/download/arabic_movies_202206/Captain.Masr.2015.mp4
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="افلام عربية",حب البنات
 https://archive.org/download/arabic_movies_202206/Hob.Elbnat.2004.1080p.mp4
 
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="افلام عربية",طباخ الريس
+https://archive.org/download/arabic_movies_202206/Tbakh.ElRaes.mp4
 
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="افلام عربية",احلام الفتى الطايش
+https://archive.org/download/arabic_movies_202206/Ahlam_Al_fata_Al_Ta2esh.720p.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="افلام عربية",ايام السادات
+https://archive.org/download/arabic_movies_202206/Ayyam.El.Sadat.2001.720p.HD.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="افلام عربية",الناظر
+https://archive.org/download/mohamed-saad/El.Nazer.HD720.mp4
 
 ######################################################################### افلام اجنبية ####################################################################
 
